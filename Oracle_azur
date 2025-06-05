@@ -10,6 +10,10 @@ Explorar o Microsoft Copilot Studio e entender a criação de agentes inteligent
 - Aprendi a usar ações como "Definir o valor de uma variável" e "Enviar mensagem".
 - Testei respostas do bot em ambiente simulado, utilizando entrada de usuário para interagir.
 
+## Objetivo 
+-Criar um oráculo virtual, utilizando diversas técnicas de leitura de tarot.
+-A idéia é que ao escolher uma das 3 opções, gere um gatilho direto de uma leitura personalizada do nosso oráculo Azur.
+
 ## Ferramentas utilizadas
 - Microsoft Copilot Studio
-- GitHub (para armazenar o resumo)
+- GitHub 
