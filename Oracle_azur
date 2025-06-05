@@ -1,0 +1,15 @@
+# Resumo da Atividade - Microsoft Copilot Studio
+
+## Objetivo
+Explorar o Microsoft Copilot Studio e entender a criação de agentes inteligentes com respostas automatizadas.
+
+## O que foi feito
+- Criei um bot chamado **Oráculo Azur**, capaz de responder com base em variáveis e tópicos.
+- Implementei uma lista com 78 cartas de tarot como variável global.
+- Configurei respostas com base em gatilhos personalizados.
+- Aprendi a usar ações como "Definir o valor de uma variável" e "Enviar mensagem".
+- Testei respostas do bot em ambiente simulado, utilizando entrada de usuário para interagir.
+
+## Ferramentas utilizadas
+- Microsoft Copilot Studio
+- GitHub (para armazenar o resumo)
